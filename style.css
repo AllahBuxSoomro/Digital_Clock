@@ -1,0 +1,17 @@
+body{background-color: #ffd6a5;}
+
+h1{display: flex;
+justify-content: center;
+align-items: center;
+font-size: 4rem;}
+.clock{display: flex;
+justify-content: center;
+align-items: center;
+font-size: 6rem;
+border-radius: 5px;}
+.date{display: flex;
+justify-content: center;
+align-items: center;
+font-size: 2rem;
+margin: 5px;
+padding: 5px;}
